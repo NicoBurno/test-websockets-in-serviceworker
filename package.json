@@ -1,0 +1,24 @@
+{
+  "name": "test-websockets-in-serviceworker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoBurno/test-websockets-in-serviceworker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicoBurno/test-websockets-in-serviceworker/issues"
+  },
+  "homepage": "https://github.com/NicoBurno/test-websockets-in-serviceworker#readme",
+  "dependencies": {
+    "fastify": "^3.21.3",
+    "fastify-static": "^4.2.3",
+    "ws": "^8.2.2"
+  }
+}
